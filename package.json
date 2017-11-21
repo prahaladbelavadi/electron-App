@@ -13,15 +13,22 @@
     "url": "git+https://github.com/prahaladbelavadi/electron-App.git"
   },
   "keywords": [
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
     "electron",
     "node",
     "quickstart"
   ],
   "author": "Prahalad Belavadi",
-  "license": "MIT",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/prahaladbelavadi/electron-App/issues"
   },
   "homepage": "https://github.com/prahaladbelavadi/electron-App#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
 }
