@@ -1,10 +1,12 @@
 {
   "name": "first-electron-app",
   "version": "1.0.0",
-  "description": "First electron quickstart app Edit",
+  "description": "First electron quickstart app",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "npm install -g electron",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/prahaladbelavadi/electron-App/issues"
   },
-  "homepage": "https://github.com/prahaladbelavadi/electron-App#readme"
+  "homepage": "https://github.com/prahaladbelavadi/electron-App#readme",
+  "dependencies": {}
 }
