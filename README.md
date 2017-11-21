@@ -49,6 +49,9 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 - Use a native terminal or git bash instead of atom/VSCode terminals
 
+## Application Packaging
+- [Application packaging using Asar](https://electronjs.org/docs/tutorial/application-packaging)
+
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
