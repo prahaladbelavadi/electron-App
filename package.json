@@ -1,0 +1,24 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "description": "First electron quickstart app Edit",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/electron-App.git"
+  },
+  "keywords": [
+    "electron",
+    "node",
+    "quickstart"
+  ],
+  "author": "Prahalad Belavadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/electron-App/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/electron-App#readme"
+}
